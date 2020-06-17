@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/u=2383283406,95267633&amp;fm=26&amp;gp=0.jpg</file>
+        <file>img/51jobA05.jpg</file>
+        <file>img/51web_banner_315x70.jpg</file>
+        <file>img/pic_cg_miduoduo.jpg</file>
+        <file>img/hubeizph.jpg</file>
+        <file>img/Hippopx.jpg</file>
+        <file>img/f39604f996d2b973910c278433b82412.jpg</file>
+        <file>img/c78b9ec7f088f2801b655badc550c2a3.jpg</file>
+        <file>img/b5498846b199e90948a50e196277c716.jpg</file>
+    </qresource>
+    <qresource prefix="/gif">
+        <file>gif/1585556615460.gif</file>
+    </qresource>
+</RCC>
