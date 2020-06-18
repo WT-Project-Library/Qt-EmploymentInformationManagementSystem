@@ -4,7 +4,3 @@
 1. Qt Creator 4.5.2
 2. MySQL  5.7.27
 3. Navicat for MySQL 11.1.13
-|table1|vlue|
-|--|--|
-| id | 1 |
-| name | user |
